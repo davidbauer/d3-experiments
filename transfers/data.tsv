@@ -1,51 +1,51 @@
-player	sum	season	age	position	fromclub	fromcountry	toclub	tocountry
-Cristiano Ronaldo	117.5	2009/10	24	LA	Man Utd	England	Real Madrid	Spanien
-Zinédine Zidane	91.875	2001/02	29	OM	Juventus Turin	Italien	Real Madrid	Spanien
-Zlatan Ibrahimovic	86.875	2009/10	27	MS	Inter Mailand	Italien	FC Barcelona	Spanien
-Kaká	81.25	2009/10	27	OM	AC Milan	Italien	Real Madrid	Spanien
-Luís Figo	75	2000/01	27	RA	FC Barcelona	Spanien	Real Madrid	Spanien
-Fernando Torres	73.125	2010/11	26	MS	Liverpool	England	Chelsea	England
-Hulk	68.75	2012/13	26	RA	FC Porto	Portugal	Zenit S-Pb	Russland
-Hernán Crespo	68.75	2000/01	25	MS	FC Parma	Italien	Lazio Rom	Italien
-Gianluigi Buffon	67.75	2001/02	23	TW	FC Parma	Italien	Juventus Turin	Italien
-Gaizka Mendieta	60	2001/02	27	RM	FC Valencia	Spanien	Lazio Rom	Italien
-Falcao	58.75	2011/12	25	MS	FC Porto	Portugal	Atlético Madrid	Spanien
-Andriy Shevchenko	57.5	2006/07	29	MS	AC Milan	Italien	Chelsea	England
-Rio Ferdinand	57.5	2002/03	23	IV	Leeds	England	Man Utd	England
-Kun Agüero	56.25	2011/12	23	MS	Atlético Madrid	Spanien	Man City	England
-Christian Vieri	56.25	1999/00	26	MS	Lazio Rom	Italien	Inter Mailand	Italien
-Ronaldo	56.25	2002/03	25	MS	Inter Mailand	Italien	Real Madrid	Spanien
-Robinho	53.75	2008/09	24	HS	Real Madrid	Spanien	Man City	England
-Juan Sebastián Verón	53.25	2001/02	26	ZM	Lazio Rom	Italien	Man Utd	England
-Thiago Silva	52.5	2012/13	27	IV	AC Milan	Italien	Paris	Frankreich
-Javier Pastore	52.5	2011/12	22	OM	US Palermo	Italien	Paris	Frankreich
-Rui Costa	52.5	2001/02	29	OM	AC Florenz	Italien	AC Milan	Italien
-Lilian Thuram	51.875	2001/02	29	RV	FC Parma	Italien	Juventus Turin	Italien
-Pavel Nedved	51.5	2001/02	28	LM	Lazio Rom	Italien	Juventus Turin	Italien
-Andy Carroll	51.25	2010/11	22	MS	Newcastle	England	Liverpool	England
-Eden Hazard	50	2012/13	21	LA	Lille	Frankreich	Chelsea	England
-Lucas	50	2012/13	20	RA	São Paulo	Brasilien	Paris	Frankreich
-Javi Martínez	50	2012/13	24	DM	Athletic Bilbao	Spanien	Bayern München	Deutschland
-Axel Witsel	50	2012/13	23	ZM	Benfica	Portugal	Zenit S-Pb	Russland
-David Villa	50	2010/11	28	MS	FC Valencia	Spanien	FC Barcelona	Spanien
-Marc Overmars	50	2000/01	27	LA	Arsenal	England	FC Barcelona	Spanien
-Dimitar Berbatov	47.5	2008/09	27	MS	Tottenham	England	Man Utd	England
-Fernando Torres	47.5	2007/08	23	MS	Atlético Madrid	Spanien	Liverpool	England
-Michael Essien	47.5	2005/06	22	DM	Lyon	Frankreich	Chelsea	England
-David Beckham	46.875	2003/04	28	ZM	Man Utd	England	Real Madrid	Spanien
-Edin Dzeko	46.25	2010/11	24	MS	VfL Wolfsburg	Deutschland	Man City	England
-Wayne Rooney	46.25	2004/05	18	HS	Everton	England	Man Utd	England
-Didier Drogba	46.25	2004/05	26	MS	Marseille	Frankreich	Chelsea	England
-Filippo Inzaghi	46.25	2001/02	27	MS	Juventus Turin	Italien	AC Milan	Italien
-Arjen Robben	45	2007/08	23	RA	Chelsea	England	Real Madrid	Spanien
-Hernán Crespo	45	2002/03	27	MS	Lazio Rom	Italien	Inter Mailand	Italien
-Javier Saviola	44.875	2001/02	19	MS	River Plate	Argentinien	FC Barcelona	Spanien
-Dani Alves	44375	2008/09	25	RV	FC Sevilla	Spanien	FC Barcelona	Spanien
-Xabi Alonso	44.25	2009/10	27	DM	Liverpool	England	Real Madrid	Spanien
-Willian	43.75	2012/13	24	LA	Shakhtar D.	Ukraine	Anzhi	Russland
-Karim Benzema	43.75	2009/10	21	MS	Lyon	Frankreich	Real Madrid	Spanien
-Nicolas Anelka	43.75	1999/00	20	MS	Arsenal	England	Real Madrid	Spanien
-José Antonio Reyes	43.75	2003/04	20	LA	FC Sevilla	Spanien	Arsenal	England
-Nicolas Anelka	43.125	2000/01	21	MS	Real Madrid	Spanien	Paris	Frankreich
-Cesc Fàbregas	42.5	2011/12	24	OM	Arsenal	England	FC Barcelona	Spanien
-Ángel Di María	41.25	2010/11	22	RA	Benfica	Portugal	Real Madrid	Spanien
+player	sum	season
+Cristiano Ronaldo	117.5	2009/10
+Zinédine Zidane	91.875	2001/02
+Zlatan Ibrahimovic	86.875	2009/10
+Kaká	81.25	2009/10
+Luís Figo	75	2000/01
+Fernando Torres	73.125	2010/11
+Hulk	68.75001	2012/13
+Hernán Crespo	68.75	2000/01
+Gianluigi Buffon	67.75	2001/02
+Gaizka Mendieta	60	2001/02
+Falcao	58.75	2011/12
+Andriy Shevchenko	57.5001	2006/07
+Rio Ferdinand	57.5	2002/03
+Kun Agüero	56.25002	2011/12
+Christian Vieri	56.25001	1999/00
+Ronaldo	56.25	2002/03
+Robinho	53.75	2008/09
+Juan Sebastián Verón	53.25	2001/02
+Thiago Silva	52.5002	2012/13
+Javier Pastore	52.5001	2011/12
+Rui Costa	52.5	2001/02
+Lilian Thuram	51.875	2001/02
+Pavel Nedved	51.5	2001/02
+Andy Carroll	51.25	2010/11
+Eden Hazard	50.00005	2012/13
+Lucas	50.00004	2012/13
+Javi Martínez	50.00003	2012/13
+Axel Witsel	50.00002	2012/13
+David Villa	50.00001	2010/11
+Marc Overmars	50	2000/01
+Dimitar Berbatov	47.50002	2008/09
+Fernando Torres	47.500001	2007/08
+Michael Essien	47.5	2005/06
+David Beckham	46.875	2003/04
+Edin Dzeko	46.25004	2010/11
+Wayne Rooney	46.25003	2004/05
+Didier Drogba	46.25002	2004/05
+Filippo Inzaghi	46.25001	2001/02
+Arjen Robben	45.00001	2007/08
+Hernán Crespo	45	2002/03
+Javier Saviola	44.875	2001/02
+Dani Alves	44.375	2008/09
+Xabi Alonso	44.25	2009/10
+Willian	43.7500003	2012/13
+Karim Benzema	43.7500002	2009/10
+Nicolas Anelka	43.7500001	1999/00
+José Antonio Reyes	43.75	2003/04
+Nicolas Anelka	43.125	2000/01
+Cesc Fàbregas	42.5	2011/12
+Ángel Di María	41.25	2010/11

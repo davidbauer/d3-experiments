@@ -91,6 +91,7 @@ d3.tsv("data.tsv", function(error, data) {
             .attr("transform", function(d) {
                 return "rotate(-65)" 
                 });
+             
 
   svg.append("g")
       .attr("class", "y axis")
@@ -107,6 +108,7 @@ d3.tsv("data.tsv", function(error, data) {
     .enter().append("g")
       .attr("class", "bar")
       
+      
    svg.selectAll("g.bar").append("rect")   
       .attr("x", function(d) { return x(d.player); })
       .attr("width", x.rangeBand())
@@ -116,7 +118,6 @@ d3.tsv("data.tsv", function(error, data) {
       .text(function(d) {
         return d.sum;
    });
-
 
   d3.select("input").on("change", change);
 
