@@ -11,4 +11,4 @@ Current project:
 - Change input from checkbox to radio buttons or dropdown
 - Use data from column "season" to indicate when transfers happened
 - Add fromclub and toclub as mouseover info to bars
-- Highlight a specific bar, a) predefined = hardcoded, b) based on input given by user, like "show all transfers to clubs in russia"
+- Highlight a specific bar, <strikethrough>a) predefined = hardcoded,</strikethrough> b) based on input given by user, like "show all transfers to clubs in russia"
