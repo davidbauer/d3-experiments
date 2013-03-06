@@ -19,7 +19,7 @@ body {
   shape-rendering: crispEdges;
 }
 
-.50 {
+.nr6 {
 	fill: yellow;
 }
 
@@ -41,7 +41,7 @@ label {
 }
 
 </style>
-<label><input type="checkbox"> Sortieren nach Transfersumme / chronologisch</label>
+<label><input type="checkbox"> Sortieren nach Transfersumme</label>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -67,7 +67,7 @@ var yAxis = d3.svg.axis()
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.tsv("data.tsv", function(error, data) {
@@ -106,14 +106,14 @@ d3.tsv("data.tsv", function(error, data) {
    svg.selectAll(".bar")
       .data(data)
     .enter().append("g")
-      .attr("class", "bar")
-      
+      .attr("class", "bar");      
       
    svg.selectAll("g.bar").append("rect")   
       .attr("x", function(d) { return x(d.player); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.sum); })
       .attr("height", function(d) { return height - y(d.sum); })
+      .attr("class",function(d,i) { return "nr"+i; }) 
       .append("text")
       .text(function(d) {
         return d.sum;
@@ -122,7 +122,7 @@ d3.tsv("data.tsv", function(error, data) {
   d3.select("input").on("change", change);
 
   var sortTimeout = setTimeout(function() {
-    d3.select("input").property("checked", true).each(change);
+    d3.select("input").property("unchecked", true).each(change);
   }, 2000);
 
   function change() {
